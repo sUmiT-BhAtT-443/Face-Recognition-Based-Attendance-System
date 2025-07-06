@@ -31,7 +31,9 @@ It captures the face using **OpenCV**, stores data into **MySQL**, and marks the
 - `create_table.py` – Create employee table
 - `fetch_all_data.py` – Fetch all records
 
----
+## 📄 License
+This project is licensed under the MIT License – feel free to use and modify.
+
 
 ## 📌 Note
 Make sure MySQL server is running and OpenCV is installed before running the project.
