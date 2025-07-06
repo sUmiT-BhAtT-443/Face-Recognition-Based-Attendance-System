@@ -16,7 +16,8 @@ It captures the face using **OpenCV**, stores data into **MySQL**, and marks the
 ## 📸 Output Screenshot
 
 ### ➤ Face Detection
-![Face Detection](![camera_detection](https://github.com/user-attachments/assets/be70d9de-d911-4c98-bb70-b0ce9684a950))
+![Face Detection]![camera_detection](https://github.com/user-attachments/assets/3f606530-9381-46f3-b1b1-070de35927ed)
+
 
 ### ➤ Terminal Output
 ![Terminal Output]![terminal_output](https://github.com/user-attachments/assets/396c6333-ab2b-4962-b228-19b2b407ee7a)
