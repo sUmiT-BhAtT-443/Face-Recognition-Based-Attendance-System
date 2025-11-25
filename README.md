@@ -13,15 +13,19 @@ It captures the face using **OpenCV**, stores data into **MySQL**, and marks the
 2. Face is detected in live webcam using Haar Cascades
 3. The employee is marked as "Present" and added to the database
 
-## 📸 Output Screenshot
+## 📸 Output Screenshots
 
 ### ➤ Face Detection
-![Face Detection]![camera_detection](https://github.com/user-attachments/assets/3f606530-9381-46f3-b1b1-070de35927ed)
+<p align="center">
+  <img src="Camera_Face_Scanning_Screen.png" alt="Face Detection" width="750">
+</p>
 
+---
 
 ### ➤ Terminal Output
-![Terminal Output]![terminal_output](https://github.com/user-attachments/assets/396c6333-ab2b-4962-b228-19b2b407ee7a)
-
+<p align="center">
+  <img src="Terminal_Screen.png" alt="Terminal Output" width="750">
+</p>
 
 ## 📂 Files in this Repo
 - `main.py` – Main file to run full system
